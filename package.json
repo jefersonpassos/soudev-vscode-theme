@@ -1,0 +1,41 @@
+{
+  "name": "soudev-theme",
+  "displayName": "Soudev Theme",
+  "description": "Soudev",
+  "version": "0.0.3",
+  "publisher": "soudev",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "repository": {
+    "url": "https://github.com/jefersonpassos/soudev-vscode-theme.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Soudev Dark Andromeda",
+        "uiTheme": "vs-dark",
+        "path": "./themes/soudev-color-theme.json"
+      },
+      {
+        "label": "Soudev semi Dark Andromeda",
+        "uiTheme": "vs-dark",
+        "path": "./themes/soudev-color-theme-semi-dark.json"
+      },
+      {
+        "label": "Soudev Purple Andromeda",
+        "uiTheme": "vs-dark",
+        "path": "./themes/soudev-color-theme-purple.json"
+      },
+      {
+        "label": "Soudev Mega Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/soudev-color-theme-mega-dark.json"
+      }
+    ]
+  }
+}
