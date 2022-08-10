@@ -2,7 +2,7 @@
   "name": "soudev-theme",
   "displayName": "Soudev Theme",
   "description": "Soudev",
-  "version": "0.0.3",
+  "version": "1.0.2",
   "publisher": "soudev",
   "icon": "images/icon.png",
   "engines": {

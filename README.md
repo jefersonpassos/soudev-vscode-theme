@@ -1,16 +1,19 @@
-# soude-theme README
+![soudev-logo](images/icon_small.png)
 
-## Working with Markdown
+<div align="center">
+  
+[![release](https://img.shields.io/github/v/release/jefersonpassos/soudev-vscode-theme.svg?style=for-the-badge&logo=github&logoColor=white&colorA=2b303b&colorB=00e8c6)](https://github.com/jefersonpassos/soudev-vscode-theme)  [![vscode](https://img.shields.io/badge/VS_Code-v1.26+-373277.svg?style=for-the-badge&logo=microsoft&logoColor=white&colorA=2b303b&colorB=7cb7ff)](https://github.com/jefersonpassos/soudev-vscode-theme)  [![downloads](https://img.shields.io/visual-studio-marketplace/d/soudev.soudev-theme?style=for-the-badge&logo=docusign&logoColor=white&colorA=2b303b&colorB=96E072)](https://marketplace.visualstudio.com/items?itemName=soudev.soudev-theme)  [![rating](https://img.shields.io/visual-studio-marketplace/stars/soudev.soudev-theme?style=for-the-badge&logo=reverbnation&logoColor=white&colorA=2b303b&colorB=FFE66D)](https://marketplace.visualstudio.com/items?itemName=soudev.soudev-theme)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+</div>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![andromeda-screenshot](images/semi-dark.png)
+![andromeda-screenshot](images/purple.png)
+![andromeda-screenshot](images/mega-dark.png)
+![andromeda-screenshot](images/mega-dark-andromeda.png)
 
-## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+> **NOTE**: This theme includes a variant with italic keywords that looks great with fonts like Operator Mono or Catograph Mono
 
-**Enjoy!**
+
+
+inspired by the https://github.com/EliverLara/Andromeda
